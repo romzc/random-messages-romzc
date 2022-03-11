@@ -1,0 +1,25 @@
+{
+  "name": "random-messages-romzc",
+  "version": "1.0.0",
+  "description": "Hello everyone, this is my first npm project",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "javascript, npm, node"
+  },
+  "keywords": [
+    "node",
+    "javascrit",
+    "npm",
+    "node"
+  ],
+  "author": "Rony Ventura <ronyramos495@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
