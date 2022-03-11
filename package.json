@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "javascript, npm, node"
+    "url": "git+https://github.com/romzc/random-messages-romzc.git"
   },
   "keywords": [
     "node",
@@ -19,7 +19,11 @@
   "author": "Rony Ventura <ronyramos495@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "bugs": {
+    "url": "https://github.com/romzc/random-messages-romzc/issues"
+  },
+  "homepage": "https://github.com/romzc/random-messages-romzc#readme"
 }
